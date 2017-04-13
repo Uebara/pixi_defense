@@ -1,0 +1,64 @@
+{ "frames": {
+   "meiko_sp 0.ase": {
+    "frame": { "x": 0, "y": 0, "w": 83, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 100 },
+    "sourceSize": { "w": 83, "h": 100 },
+    "duration": 100
+   },
+   "meiko_sp 1.ase": {
+    "frame": { "x": 83, "y": 0, "w": 83, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 100 },
+    "sourceSize": { "w": 83, "h": 100 },
+    "duration": 100
+   },
+   "meiko_sp 2.ase": {
+    "frame": { "x": 166, "y": 0, "w": 83, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 100 },
+    "sourceSize": { "w": 83, "h": 100 },
+    "duration": 100
+   },
+   "meiko_sp 3.ase": {
+    "frame": { "x": 249, "y": 0, "w": 83, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 100 },
+    "sourceSize": { "w": 83, "h": 100 },
+    "duration": 100
+   },
+   "meiko_sp 4.ase": {
+    "frame": { "x": 332, "y": 0, "w": 83, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 100 },
+    "sourceSize": { "w": 83, "h": 100 },
+    "duration": 100
+   },
+   "meiko_sp 5.ase": {
+    "frame": { "x": 415, "y": 0, "w": 83, "h": 100 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 100 },
+    "sourceSize": { "w": 83, "h": 100 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.1.13",
+  "image": "meiko_sp.png",
+  "format": "RGBA8888",
+  "size": { "w": 498, "h": 100 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
